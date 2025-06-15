@@ -106,6 +106,3 @@ docker run -e FOLDER_ID=xxxxx -e DEPLOY_TOKEN=xxxxx project-build
 ├── request-handler/
 └── README.md
 ```
-
----
-# versel
