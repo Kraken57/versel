@@ -1,0 +1,9 @@
+vercel-deploy-service/dist
+vercel-deploy-service/node_modules
+vercel-deploy-service/.env
+vercel-request-handler/dist
+vercel-request-handler/node_modules
+vercel-request-handler/.env
+vercel-upload-service/dist
+vercel-upload-service/node_modules
+vercel-upload-service/.env
